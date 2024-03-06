@@ -62,8 +62,11 @@ The system demonstrates essential functionalities for managing library books and
 Source code: The complete source code for the system can be found in the following files:
 
 Library.java
+
 Book.java
+
 Controller.java
+
 View.java
 
 Sample input/output: A sample interaction with the system showcasing adding, searching, and updating functionalities can be included.
