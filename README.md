@@ -7,6 +7,7 @@ This document describes a console-based library management system (LMS) written 
 The system allows users to add, remove, update, and search for books within a library.
 
 2. System Requirements:
+![image](https://github.com/Hfhdhfj/Librarymanagementsystem/assets/109065238/05b5b585-2e81-48d3-a3fb-54052d3e5aed)
 
 Java Runtime Environment (JRE) 11 or later
 Scanner class for user input
