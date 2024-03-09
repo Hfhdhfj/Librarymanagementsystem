@@ -21,7 +21,7 @@ The Library Management System (LMS) is a Java-based application designed to mana
 
 
 
-                                                  Technical Implementation :
+     Technical Implementation :
 
 The application uses classes to model real-world entities:
 
