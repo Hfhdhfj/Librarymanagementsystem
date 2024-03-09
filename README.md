@@ -162,7 +162,8 @@ Visual representation of the Library Management System's architecture :
                        +-> Exit program
           End
 
-          ![Uploading image.png…]()
+     ![image](https://github.com/Hfhdhfj/Librarymanagementsystem/assets/109065238/bf828681-80fb-4c25-a61a-0fba241d0265)
+
 
 
 
