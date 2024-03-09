@@ -39,10 +39,10 @@ The application uses classes to model real-world entities:
 This is a command-line application, lacking a graphical user interface (GUI).
 It doesn't handle user authentication or authorization.
 Error handling could be improved to provide more informative messages in case of invalid inputs or unexpected situations.
+System Requirements :
 
-        System Requirements :
+Java Runtime Environment (JRE) installed on your computer.
 
-                Java Runtime Environment (JRE) installed on your computer.
 
                                                                        
                                                  User Interaction :
