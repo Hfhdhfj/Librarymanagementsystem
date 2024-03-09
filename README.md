@@ -122,25 +122,9 @@ A school librarian can utilize this application to manage the school library's b
 
 Book enthusiasts can use this application to manage their personal libraries. Adding new books they acquire, including details like author and purchase price, allows for easy organization. They can search for specific books within their collection and update information if needed (e.g., mark a book as loaned to a friend).
 
+
 Overall, this LMS application provides a foundational structure for managing book collections. It can be a valuable tool for small libraries, personal libraries, or educational settings where basic organization and tracking of books are needed
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 
 
 
