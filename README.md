@@ -21,19 +21,19 @@ Get Book: The librarian can search for a book by name and view its details (name
 
 
 
-                                                    Technical Implementation :
+                                                  Technical Implementation :
 
 The application uses classes to model real-world entities:
 
-Library: Stores information about the library (name, address, pincode) and a collection of books.
+     Library: Stores information about the library (name, address, pincode) and a collection of books.
 
-Book: Represents a book with attributes like name, author, and price.
+     Book: Represents a book with attributes like name, author, and price.
 
-A Controller class handles user interactions and delegates tasks to the appropriate model classes (Library and Book).
+     A Controller class handles user interactions and delegates tasks to the appropriate model classes (Library and Book).
 
-A View class manages the user interface, taking input from the librarian and displaying messages on the console.
+     A View class manages the user interface, taking input from the librarian and displaying messages on the console.
 
-Limitations : 
+                                                  Limitations : 
 This is a command-line application, lacking a graphical user interface (GUI).
 It doesn't handle user authentication or authorization.
 Error handling could be improved to provide more informative messages in case of invalid inputs or unexpected situations.
@@ -42,7 +42,7 @@ System Requirements :
 Java Runtime Environment (JRE) installed on your computer.
 
                                                                        
-                                                         User Interaction :
+                                                 User Interaction :
              The application will greet you with a welcome message and prompt you to enter the library's details during the first run:
 
 
@@ -74,21 +74,21 @@ Choose option 4: "Get book" :
 ![image](https://github.com/Hfhdhfj/Librarymanagementsystem/assets/109065238/46932006-1416-4a16-a9ae-dd16103a19ae)
 
 
-Data Structures:
-                         Library: Represented by the Library class.
+            Data Structures:
+                       Library: Represented by the Library class.
                           Fields:
                           LibraryName (String): Name of the library.
                           LibraryAddress (String): Address of the library.
                           pincode (int): Pincode of the library's location.
                           books (List<Book>): Collection of books belonging to the library (relationship explained later).
 
-Book: Represented by the Book class.
-Fields:
-bookname (String): Name of the book.
-bookauthor (String): Author of the book.
-bookprice (double): Price of the book.
+                          Book: Represented by the Book class.
+                             Fields:
+                            bookname (String): Name of the book.
+                         bookauthor (String): Author of the book.
+                        bookprice (double): Price of the book.
 
-List: Used by the Library class to store books (List<Book> books).
+                      List: Used by the Library class to store books (List<Book> books).
 This is an interface implemented by various concrete list classes like ArrayList (likely used here).
 It provides functionalities for adding, removing, and accessing elements in a sequential order.
 Relationships:
