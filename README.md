@@ -73,13 +73,14 @@ Choose option 4: "Get book" :
 
 ![image](https://github.com/Hfhdhfj/Librarymanagementsystem/assets/109065238/46932006-1416-4a16-a9ae-dd16103a19ae)
 
+
 Data Structures:
-Library: Represented by the Library class.
-Fields:
-LibraryName (String): Name of the library.
-LibraryAddress (String): Address of the library.
-pincode (int): Pincode of the library's location.
-books (List<Book>): Collection of books belonging to the library (relationship explained later).
+                         Library: Represented by the Library class.
+                          Fields:
+                          LibraryName (String): Name of the library.
+                          LibraryAddress (String): Address of the library.
+                          pincode (int): Pincode of the library's location.
+                          books (List<Book>): Collection of books belonging to the library (relationship explained later).
 
 Book: Represented by the Book class.
 Fields:
@@ -103,16 +104,15 @@ The books list stores references to individual Book objects, each representing a
 
 
 
-
 Real-world examples and use cases to illustrate how this Library Management System (LMS) application can be applied in practical scenarios:
 
-Small Library Management:
+    Small Library Management:
 A local community library can use this application to manage its collection of books. The librarian can add new books entering details like title, author, and price. They can search for existing books by title and update details if needed (e.g., update price after a discount sale). Removing books from the collection when they become damaged or are no longer relevant is also possible.
 
-School Library Management:
+    School Library Management:
 A school librarian can utilize this application to manage the school library's book collection. Adding new books for different age groups and subjects is straightforward. Searching for specific books by title or author can help students and teachers locate resources quickly. Removing outdated or damaged books from the collection can be easily tracked.
 
-Personal Book Collection Management:
+    Personal Book Collection Management:
 
 Book enthusiasts can use this application to manage their personal libraries. Adding new books they acquire, including details like author and purchase price, allows for easy organization. They can search for specific books within their collection and update information if needed (e.g., mark a book as loaned to a friend).
 
