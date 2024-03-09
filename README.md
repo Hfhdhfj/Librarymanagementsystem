@@ -1,15 +1,15 @@
-                          Library Management System 
+                                                         Library Management System 
 
 Overview :
 The Library Management System (LMS) is a Java-based application designed to manage a library's book collection. The system consists of three main classes: Library, Book, and Controller, along with a user interface class named View. It provides functionalities for adding, removing, updating, and fetching details of books in the library.
 
 
 
-Main Features :
+                                                    Main Features :
 
 Library Setup: During application startup, the librarian enters the library's name, address, and pincode, which are stored for future reference.
 
-Book Management:
+                                                     Book Management:
 
 Add Book: The librarian can add new books to the library by providing details like book name, author, and price.
 
@@ -21,7 +21,7 @@ Get Book: The librarian can search for a book by name and view its details (name
 
 
 
-Technical Implementation :
+                                             Technical Implementation :
 
 The application uses classes to model real-world entities:
 
@@ -41,9 +41,10 @@ Error handling could be improved to provide more informative messages in case of
 System Requirements :
 Java Runtime Environment (JRE) installed on your computer.
 
-                                                                        Get Started
-User Interaction :
+                                                                       Get Started
+                                                                    User Interaction :
 The application will greet you with a welcome message and prompt you to enter the library's details during the first run:
+
 
 ![image](https://github.com/Hfhdhfj/Librarymanagementsystem/assets/109065238/e4faecf5-cb75-454b-a00a-941278b2b625)
 
