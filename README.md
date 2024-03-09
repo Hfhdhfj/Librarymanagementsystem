@@ -5,19 +5,19 @@ The Library Management System (LMS) is a Java-based application designed to mana
 
 
 
-                                                     Main Features :
+             Main Features :
 
-Library Setup: During application startup, the librarian enters the library's name, address, and pincode, which are stored for future reference.
+              Library Setup: During application startup, the librarian enters the library's name, address, and pincode, which are stored for future reference.
 
-                                                     Book Management:
+            Book Management:
 
-Add Book: The librarian can add new books to the library by providing details like book name, author, and price.
+                         Add Book: The librarian can add new books to the library by providing details like book name, author, and price.
 
-Remove Book: The librarian can remove books from the library by entering the book name.
+                         Remove Book: The librarian can remove books from the library by entering the book name.
 
-Update Book: The librarian can update existing book information (name, author, or price) by searching for the book and then modifying the desired field.
+                         Update Book: The librarian can update existing book information (name, author, or price) by searching for the book and then modifying the desired field.
 
-Get Book: The librarian can search for a book by name and view its details (name, author, price).
+                         Get Book: The librarian can search for a book by name and view its details (name, author, price).
 
 
 
@@ -32,8 +32,10 @@ The application uses classes to model real-world entities:
      A Controller class handles user interactions and delegates tasks to the appropriate model classes (Library and Book).
 
      A View class manages the user interface, taking input from the librarian and displaying messages on the console.
+     
 
                                                   Limitations : 
+                                                  
 This is a command-line application, lacking a graphical user interface (GUI).
 It doesn't handle user authentication or authorization.
 Error handling could be improved to provide more informative messages in case of invalid inputs or unexpected situations.
