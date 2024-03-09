@@ -161,8 +161,8 @@ Visual representation of the Library Management System's architecture :
                        |     -> Else: Book not found
                        +-> Exit program
           End
-
-     ![image](https://github.com/Hfhdhfj/Librarymanagementsystem/assets/109065238/bf828681-80fb-4c25-a61a-0fba241d0265)
+          
+[image](https://github.com/Hfhdhfj/Librarymanagementsystem/assets/109065238/bf828681-80fb-4c25-a61a-0fba241d0265)
 
 
 
