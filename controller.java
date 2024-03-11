@@ -10,7 +10,7 @@ import com.jsp.Lms_view.View;
 public class controller {
 
 	private Library library = View.getLibrary();// we get the library of lit which store in object of
-												// view class so from we use view.getlibrary to get the list of library
+					// view class so from we use view.getlibrary to get the list of library
 
 	public void addBook(Book book) {
 		List<Book> books = library.getBooks();// from the object of library of controller we get the list of book
